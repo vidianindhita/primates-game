@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Splash Screen.unity
+    guid: 64a90d83ebc814b15bdf4243ba75e576
+  - enabled: 1
+    path: Assets/Scenes/Instruction General.unity
+    guid: f553fd0b6b239430d879bdea216c450f
+  - enabled: 1
+    path: Assets/Scenes/Instruction Level 1.unity
+    guid: a48a554bffeeb43a38064c94daabb188
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 07da20ff4b524423698719689c5c18bb
+  - enabled: 1
+    path: Assets/Scenes/Transition Level 2.unity
+    guid: e60f3e957cdec4edca262bec3a738332
+  - enabled: 1
+    path: Assets/Scenes/Instruction Level 2.unity
+    guid: 3ff801b00442f4e8eb875a552d245a43
+  - enabled: 1
+    path: Assets/Scenes/Level 2 Seasons.unity
+    guid: ca846097af1e6418ab934a564bf65f91
+  - enabled: 1
+    path: Assets/Scenes/Sub Instruction Level 2.unity
+    guid: 7a2cb9d95dcd845f19c943bb054972c2
+  - enabled: 1
+    path: Assets/Scenes/Level 2 Fall.unity
+    guid: 8c1751fed80954dd2b2a9a3f05f7d2ce
+  - enabled: 1
+    path: Assets/Scenes/Sub Instruction Level 2-b.unity
+    guid: 5d0f957cbe5964563b822fc014a8e353
+  - enabled: 1
+    path: Assets/Scenes/Level 2 Spring.unity
+    guid: 9fb340b43ad584a8cb2e05af26a31588
+  - enabled: 1
+    path: Assets/Scenes/Transition Level 3.unity
+    guid: 68f7f368394d1479cba5f179e3f78424
+  - enabled: 1
+    path: Assets/Scenes/Instruction Level 3.unity
+    guid: e30ff17e506084581b68c03b6f6dc2b5
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: f07663e5013c54206a5b42cbc3d107ac
+  - enabled: 1
+    path: Assets/Scenes/Transition End.unity
+    guid: 227414ba27d9e4f5d8d3f2b4f09cdeab
+  - enabled: 1
+    path: Assets/Scenes/Total Score.unity
+    guid: 8e828fa527ed94de9838ff2c2d7adb8b
+  - enabled: 1
+    path: Assets/Scenes/Thanks.unity
+    guid: 4e0efa9866dac4508b8056aae634c539
+  - enabled: 1
+    path: Assets/Scenes/Result Spider Monkey.unity
+    guid: 3c2611bb81fe54a1eb6ab5b37de3ac0f

@@ -1,0 +1,55 @@
+sceneSetups:
+- path: Assets/Scenes/Splash Screen.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Scenes/Instruction General.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Instruction Level 1.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Level 1.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Transition Level 2.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Instruction Level 2.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Level 2 Seasons.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Sub Instruction Level 2.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Level 2 Fall.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Sub Instruction Level 2-b.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Level 2 Spring.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Transition Level 3.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Instruction Level 3.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Level 3.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Transition End.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Total Score.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Result Spider Monkey.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Thanks.unity
+  isLoaded: 0
+  isActive: 0

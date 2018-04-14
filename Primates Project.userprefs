@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/ShowObjectSpringManager.cs">
+    <Files>
+      <File FileName="Assets/Script/ClickManager.cs" Line="27" Column="52" />
+      <File FileName="Assets/Script/ShowObjectManager.cs" Line="50" Column="3" />
+      <File FileName="Assets/Script/GestureManager.cs" Line="27" Column="5" />
+      <File FileName="Assets/Script/ButtonClick.cs" Line="11" Column="22" />
+      <File FileName="Assets/Script/CountdownTimer.cs" Line="10" Column="26" />
+      <File FileName="Assets/Script/TransitionTimer.cs" Line="24" Column="4" />
+      <File FileName="Assets/Script/TimesUpTimer.cs" Line="12" Column="32" />
+      <File FileName="Assets/Script/AfterSeasonsChangeTimer.cs" Line="9" Column="26" />
+      <File FileName="Assets/Script/ShowObjectFallManager.cs" Line="70" Column="3" />
+      <File FileName="Assets/Script/ShowObjectSpringManager.cs" Line="81" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
